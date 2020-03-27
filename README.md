@@ -19,7 +19,7 @@ We worked like a well oiled machinery with no conflicts.
 - My strength on the project has been my comfort and exeprience with technology ... coding comes easy to me. Whereas Prentiss' strength has been his experience with US (our dataset was US based) and his consulting background. We both complemeneted each other and also supported each other in gaining additional skills and knowhow
 
 # COMMUNICATION
-Given our personal commitmenets, both Prentiss and I have 5 year olds who are being home-schooled now :) , we were comfortable communicating via cell phone texts, emails, bi-weekly zoom meetings and slack. 
+Given our personal commitments, both Prentiss and I have 5 year olds who are being home-schooled now :) , we were comfortable communicating via cell phone texts, emails, bi-weekly zoom meetings and slack. 
 We made use of every possible communication channel available to us to collaborate and make our lives easier.
 
 # PERSONAL CHALLENGE
