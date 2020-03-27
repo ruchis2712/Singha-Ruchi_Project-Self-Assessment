@@ -23,8 +23,12 @@ Given our personal commitments, both Prentiss and I have 5 year olds who are bei
 We made use of every possible communication channel available to us to collaborate and make our lives easier.
 
 # PERSONAL CHALLENGE
-COVID-19 situation. It put additional unanticipated personal burden on our time. I had to not only do office work, project work, but also home-school my young daughter, and take care of the house etc. As a single mother, each minute of my day is literally accounted for and anything additional unplanned such as the current situation puts huge strain on the very limited times resource.
-I am glad we were in the second half of the project when this hit us. As part of my basic nature, I am a planner and always want to fast pace work with an assumption that we really don't know what will happen in future and we may not really have the time or luxury that we see today. With that mindset I had started this project on a fast pace so that the last week either becomes a luxury or a much needed buffer for us ... also since we were both parents with full time jobs. 
+COVID-19 situation. It put additional unanticipated personal burden on our time. I had to not only do office work, project work, but also home-school my young daughter, and take care of the house etc. As a single mother, each minute of my day is literally accounted for and anything additional unplanned such as the current situation puts huge strain on the very limited time resource.
+
+I am glad we were in the second half of the project when this hit us. 
+
+As part of my basic nature, I am a planner and always want to fast pace work with an assumption that we really don't know what will happen in future and we may not really have the time or luxury that we see today. With that mindset I had started this project on a fast pace so that the last week either becomes a luxury or a much needed buffer for us ... also since we were both parents with full time jobs.
+
 Because of this I earned the nickname 'Queen Leadfoot' on the project :)
 
 # TIPS for any new cohorts
