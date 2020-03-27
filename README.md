@@ -3,11 +3,11 @@ We were a 2 member team. Thus, we had to put on many hats during the course of t
 
 But we really rose upto the challenge and it bought out the best in us in terms of coordinating, giving creative space and utilizing each others strengths on the project. We never once had an issue of who would do what. 
 
-- We both researched topics and collectively decided on the topic. 
-- While Prentiss took to setting up the GitHub, I worked in parallel to understand and explore the data. 
-- While I worked on the ETL part of the data, Prentiss setup the AWS Postgres Database with tables. 
-- Once I was done with ETL and also the querying code, he took over for Machine Learning.
-- While he was working on ML, I setup our slide structure and worked on our dashboards.
+- We both researched topics and collectively decided on the topic 
+- While Prentiss took to setting up the GitHub, I worked in parallel to understand and explore the data
+- While I worked on the ETL part of the data, Prentiss setup the AWS Postgres Database with tables
+- Once I was done with ETL and also the querying code, he took over for Machine Learning
+- While he was working on ML, I setup our slide structure and worked on our dashboards
 
 We worked like a well oiled machinery with no conflicts. 
 
