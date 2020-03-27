@@ -27,7 +27,7 @@ COVID-19 situation. It put additional unanticipated personal burden on our time.
 
 I am glad we were in the second half of the project when this hit us. 
 
-As part of my basic nature, I am a planner and always want to fast pace work with an assumption that we really don't know what will happen in future and we may not really have the time or luxury that we see today. With that mindset I had started this project on a fast pace so that the last week either becomes a luxury or a much needed buffer for us ... also since we were both parents with full time jobs.
+As part of my basic nature, I am a planner and always want to fast pace work with an assumption that we really don't know what will happen in future and we may not really have the time or luxury that we see today. With that mindset I had started this project on a fast pace so that the last week either becomes a luxury or a much needed buffer for us ... also since we are both parents with full time jobs.
 
 Because of this I earned the nickname 'Queen Leadfoot' on the project :)
 
