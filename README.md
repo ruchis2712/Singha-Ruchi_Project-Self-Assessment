@@ -33,3 +33,6 @@ Because of this I earned the nickname 'Queen Leadfoot' on the project :)
 
 # TIPS for any new cohorts
 Would be to have clearly demarcated roles and responsibilities, with trust in each others capabilities, a broad level understanding of what is important to each team member as a personal outcome from the project, and an open mindest to help and ellevate each other
+
+# SUMMARY OF PROJECT (PROJECT ELEVATOR)
+### Executed a Machine Learning classifier project analyzing US Road Accidents, to enable an Early Warning System. The project leveraged Postgres for data storage; PySpark for ETL; Sklearn, TensorFlow & Keras for Machine Learning; and Tableau for visualization. Of the three ML algorithms tested (Logistics Regression, Decision Tree Classifier and Neural Networks), Decision Tree Classifier was most accurate in classifying accident severity based on the features used.
